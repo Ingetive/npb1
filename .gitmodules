@@ -1,0 +1,3 @@
+[submodule "addons11"]
+	path = addons11
+	url = git@github.com:Ingetive/addons11.git
